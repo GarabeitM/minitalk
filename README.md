@@ -1,4 +1,4 @@
-# MiniTalk
+# minitalk
 
 ## Overview
 

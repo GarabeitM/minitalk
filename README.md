@@ -2,7 +2,7 @@
 
 ## Overview
 
-MiniTalk is a client-server communication project for sending messages using binary encoding and signal handling.
+Minitalk is a client-server communication project for sending messages using binary encoding and signal handling.
 
 ## Client
 
